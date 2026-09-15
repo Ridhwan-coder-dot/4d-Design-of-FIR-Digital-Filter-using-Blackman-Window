@@ -43,8 +43,10 @@ title('Frequency Response of FIR LPF using Blackman Window');
 ```
 
 # CALCULATION:
-<img width="896" height="1496" alt="image" src="https://github.com/user-attachments/assets/15ddb68a-1a05-4783-8d23-e8fde1d17297" />
-<img width="1600" height="1340" alt="image" src="https://github.com/user-attachments/assets/2fa53a8c-2889-46e2-bcad-86a793c6b462" />
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 08 53 05" src="https://github.com/user-attachments/assets/62b90e8e-5f48-46a6-a8df-1f5980ca440b" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 08 53 09" src="https://github.com/user-attachments/assets/711303b1-fa94-4a34-ab18-220e73254468" />
+
 
 
 # OUTPUT: 
