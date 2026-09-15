@@ -42,6 +42,10 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR LPF using Blackman Window');
 ```
 
+# CALCULATION:
+<img width="896" height="1496" alt="image" src="https://github.com/user-attachments/assets/15ddb68a-1a05-4783-8d23-e8fde1d17297" />
+<img width="1600" height="1340" alt="image" src="https://github.com/user-attachments/assets/2fa53a8c-2889-46e2-bcad-86a793c6b462" />
+
 
 # OUTPUT: 
 <img width="763" height="691" alt="image" src="https://github.com/user-attachments/assets/d7e7dec4-d2bb-4ec7-ab2b-351972e34746" />
